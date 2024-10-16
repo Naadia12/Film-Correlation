@@ -1,6 +1,6 @@
 # Film Correlation # 
 
-## Aim ##
+## Project Brief ##
 - The primary aim of this project is to analyse the relationship between the budget and gross earnings of films.
 -Identify key correlations between various movie features such as genre, runtime, release year, and ratings.
 -Generate meaningful insights through data exploration, cleaning, and analysis, using Python to produce visual representations of these relationships
