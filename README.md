@@ -5,7 +5,7 @@
 -Identify key correlations between various movie features such as genre, runtime, release year, and ratings.
 -Generate meaningful insights through data exploration, cleaning, and analysis, using Python to produce visual representations of these relationships
 
-#Key steps#
+Key steps
 
 Research and download a relevant movie dataset, which includes features like budget, gross earnings, runtime, and genre.
 Environment Setup
@@ -19,7 +19,7 @@ Generate visual representations of the correlations using libraries.
 Analyse and interpret the visualised correlations to draw insights on how different movie features relate to financial success.
 Document these insights clearly.
 
-#Challenges#
+Challenges
 
 Some Python libraries were incompatible and there were many errors when importing or using certain functions. This required troubleshooting which was done by updating the libraries.
 There were also instances where the code ran without errors but there was no output, such as graphs not displaying properly or calculations being incorrect. This meant a lot of code had to be debugged the code.
