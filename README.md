@@ -23,3 +23,8 @@ Challenges
 
 Some Python libraries were incompatible and there were many errors when importing or using certain functions. This required troubleshooting which was done by updating the libraries.
 There were also instances where the code ran without errors but there was no output, such as graphs not displaying properly or calculations being incorrect. This meant a lot of code had to be debugged the code.
+
+Click the link to view an interactive Tableau dashboard showcasing this film data.
+https://public.tableau.com/app/profile/naadia.ajmal/viz/TopEarningFilmsandBudgetRevenueCorrelations/Dashboard1
+
+
