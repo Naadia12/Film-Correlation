@@ -1,8 +1,5 @@
 
 Movie Budget vs Gross Earnings Analysis
-Click the link to view an interactive Tableau dashboard showcasing this film data.
-https://public.tableau.com/app/profile/naadia.ajmal/viz/TopEarningFilmsandBudgetRevenueCorrelations/Dashboard1
-
 
  Description
 
