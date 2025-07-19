@@ -13,7 +13,7 @@ Key Steps
 
 Challenges
 
-Compatibility issues with Python libraries and debugging visualization problems required troubleshooting to ensure accurate outputs and clear insights.
+Compatibility issues with Python libraries and debugging visualisation problems required troubleshooting to ensure accurate outputs and clear insights.
 
 
 
